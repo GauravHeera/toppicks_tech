@@ -168,7 +168,7 @@
             cursor: pointer;
             border: none;
             margin: 20px 0;
-            &:hover{
+            &:active{
                 color: #fff;
                 background-color: blue;
                 transform: scale(105%);
@@ -426,13 +426,14 @@
                 flex-direction: column;
                 gap: 20px;
                 padding: 10px;
+                box-sizing: border-box;
             }
             .header nav ul {
                 flex-direction: row;
                 gap: 10px;
             }
             #search {
-                width: 70%;
+                width: 90%;
                 height: 40px;
                 font-size: 14px;
                 z-index: 2;
