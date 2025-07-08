@@ -1,0 +1,29 @@
+TopPicks Tech – Privacy Policy Effective Date: July 7, 2025 Last Updated: July 7, 2025
+
+TopPicks Tech is a frontend-only website. We do not collect, store, or process any personal data from visitors. Your privacy is fully respected while browsing.
+
+1. No Data Collection
+
+   We do not track or store your personal information.
+
+   There are no forms, logins, cookies, or analytics tools in use.
+
+   We do not record IP addresses, device info, or behavior.
+
+2. No Server-Side Processing
+
+   This site does not use databases or APIs to gather data.
+
+   It is built entirely with HTML, CSS, and JavaScript (Client side JavaScript only).
+
+3. Third-Party Links
+
+   Some pages may link to third-party sites such as retailers or social platforms.
+
+   These sites may have their own privacy policies. We advise reviewing them before interacting.
+
+4. Your Experience
+
+   You may freely browse without concern about tracking or monitoring.
+
+   We do not use cookies, browser fingerprinting, or session monitoring.
