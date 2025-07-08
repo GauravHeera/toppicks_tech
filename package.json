@@ -1,7 +1,7 @@
 {
   "name": "toppicks-tech",
   "version": "1.0.0",
-  "homepage": "https://gauravheera.github.io/toppicks-tech",
+  "homepage": "https://gauravheera.github.io/toppicks_tech",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
