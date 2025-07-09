@@ -32,7 +32,7 @@ export const productCard = (product) => {
 export const footerTxt = [
     {text: "Privacy Policy", path: "policies/privacy_policy.txt"},
     {text: "Terms Of Use", path: "policies/terms.txt"},
-    {text: "Go back to top", path: "https://gauravheera.github.io/toppicks_tech/"}
+    {text: "Go back to top", path: "#header"}
 ];
 
 export const carouselSlide = [
