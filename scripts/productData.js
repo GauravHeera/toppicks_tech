@@ -18,7 +18,7 @@ export const productData = [
         price: "5,998",
         amazon: "https://www.amazon.in/Titan-Resolution-Functional-SingleSync-WatchfacesIP68/dp/B0CLRCTC58/ref=sr_1_4?crid=I10Y3L7SX33J&dib=eyJ2IjoiMSJ9.ucveshLa-AeRGZ_iXxuzXeNNpeHjlifCCRoTvxL0oFqfptf89ua-UAj-OttJViHq7oEskZil1rRcC4kti6YfRjpCovv1VX01hi_Z2j8tlXb5hdVlJQSrTp3yjpkIjIvg8C4BCFQbWNzgzOV7gLkXdR0ktqGBG7FXtsaNTazxGmUDIzBTCY6oDCYLx4iQHS6_3xu5fhaQ4CF5WiU7NtOZdpq1plpMWinsQR4LnHRL3QA.q4_ZuvGb5ybo2oAkkHTfUXMHg9TEoRAXJYz2E4nPas0&dib_tag=se&keywords=titan+crest+1.43+smart+watch&nsdOptOutParam=true&qid=1751903904&sprefix=titan+crest%2Caps%2C354&sr=8-4",
         flipkart: "https://www.flipkart.com/titan-crest-1-43-premium-design-amoled-aod-working-crown-bt-calling-fast-charge-ip68-smartwatch/p/itm2424b5a6866c5?pid=SMWGUNHH6FYPBEQB&lid=LSTSMWGUNHH6FYPBEQBFHZVU5&marketplace=FLIPKART&q=titan+crest&store=ajy%2Fbuh&srno=s_1_6&otracker=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_9_na_na_na&fm=search-autosuggest&iid=26bbdfec-6a47-4c9a-8507-916ff3904204.SMWGUNHH6FYPBEQB.SEARCH&ppt=sp&ppn=sp&ssid=ocyrt8myao0000001751903821092&qH=68a681b5e013c9ee",
-        croma: "/../templates/error.txt",
+        croma: "https://raw.githubusercontent.com/GauravHeera/toppicks_tech/refs/heads/main/templates/error.txt",
         details: ""
     },
     {
